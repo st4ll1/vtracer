@@ -11,7 +11,7 @@ categories = ["graphics"]
 keywords = ["svg", "computer-graphics"]
 
 [dependencies]
-clap = "2.33.3"
-image = "0.23.10"
+clap = "4.3.2"
+image = "0.24.6"
 visioncortex = { version = "0.8.0" }
-fastrand = "1.8"
+fastrand = "1.9"
